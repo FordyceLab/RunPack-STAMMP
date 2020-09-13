@@ -1,4 +1,3 @@
-# title             : eMITOMIprotocols.py
 # description       : STAMMP protocols for experimental acquisition
 # authors           : Daniel Mokhtari, Arjun Aditham
 # date              : 20180520
